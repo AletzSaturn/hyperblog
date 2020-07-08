@@ -7,4 +7,6 @@ Un blog hecho para el curso de Platzi de Git y GitHub
 1. Oknitriks
 ~~aaaaa~~
 
+Creado por yomero caguamero jsjsjs
+
 > :tw-1f4af: :tw-1f4af:
