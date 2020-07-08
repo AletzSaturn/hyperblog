@@ -9,5 +9,6 @@ Un blog hecho para el curso de Platzi de Git y GitHub
 
 Creado por yomero caguamero jsjsjs
 Incluye ejemplos en windows, y ya :0
+Fisponible para todas las edades
 
 > :tw-1f4af: :tw-1f4af:
